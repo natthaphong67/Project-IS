@@ -80,7 +80,7 @@ st.markdown("""
 
 GitHub Repository<br>
 <a href="https://github.com/natthaphong67/Project-IS.git" target="_blank">
-https://github.com/yourusername/yourproject
+https://github.com/natthaphong67/Project-IS.git
 </a>
 
 </div>
