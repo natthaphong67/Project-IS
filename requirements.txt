@@ -2,4 +2,7 @@ streamlit
 tensorflow
 numpy
 pillow
+pandas
+scikit-learn
+joblib
 gdown
