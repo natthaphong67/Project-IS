@@ -14,7 +14,7 @@ st.set_page_config(layout="wide")
 MODEL_PATH = "card_classifier.h5"
 
 if not os.path.exists(MODEL_PATH):
-    url = "https://drive.google.com/file/d/1_tRu0tcr17luiExEsnJtjT2-CHn04_mm/view?usp=drive_link"
+    url = "https://drive.google.com/uc?id=1_tRu0tcr17luiExEsnJtjT2-CHn04_mm"
     gdown.download(url, MODEL_PATH, quiet=False)
 
 # -------------------------------
