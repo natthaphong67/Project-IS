@@ -2,4 +2,4 @@
 
 Run this to download all datasets:
 
-python download.py
+python Download_Dataset.py
